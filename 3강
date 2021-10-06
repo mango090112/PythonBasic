@@ -1,0 +1,38 @@
+age = 13
+print(age)
+공책 = 5
+필통 = 0
+교과서 = 1
+print(공책, 필통, 교과서)
+print("""    \\    /\\
+     )  ( ')
+    (  /  )
+     \\(__)ㅣ""")
+string = '''오늘은 비가 오고
+나는 오늘 줌수업을 했다.'''
+print(string)
+print('''ㅣ\\_/ㅣ
+ㅣq pㅣ   /}
+ ( 0 )"""\\
+ㅣ"^"'     ㅣ
+ㅣㅣ_/=\\\\__ㅣ''')
+A = 1
+B = 2
+print(A+B, A-B, A*B, A/B, A%B)
+C = 3
+print((A+B)%C, ((A%C)+(B%C))%C)
+print((A*B)%C, ((A%C)*(B%C))%C)
+head = "오늘은"
+tail = " 비가 온다."
+print(head+tail)
+a = "파이썬"
+print(a*2)
+print("="*30)
+print("My Program")
+print("="*30)
+x = 5
+y = 8
+z = 4
+print(x-z, x-z, x*y%z, x*y%z)
+hello = "안녕하세요! 오늘은 기분이 좋습니다."
+print(hello[2])
